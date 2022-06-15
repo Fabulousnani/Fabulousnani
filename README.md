@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fabulousnani
 - 👀 I’m interested in Data Analytics,Data science & Machine Learning
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevOps and Data science
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me fabulous.disha.page
 
